@@ -1,0 +1,23 @@
+{
+  "name": "typing-game-2",
+  "version": "1.0.0",
+  "description": "Another typing game, this time in TypeScript. Theme to be determined.",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ep943087/typing-game-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ep943087/typing-game-2/issues"
+  },
+  "homepage": "https://github.com/ep943087/typing-game-2#readme"
+}
